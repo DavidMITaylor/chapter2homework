@@ -58,9 +58,9 @@ Partial Class frmSelfies
         'btnConnect
         '
         Me.btnConnect.Font = New System.Drawing.Font("Tahoma", 9.0!, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, CType(0, Byte))
-        Me.btnConnect.Location = New System.Drawing.Point(258, 53)
+        Me.btnConnect.Location = New System.Drawing.Point(245, 53)
         Me.btnConnect.Name = "btnConnect"
-        Me.btnConnect.Size = New System.Drawing.Size(120, 30)
+        Me.btnConnect.Size = New System.Drawing.Size(133, 30)
         Me.btnConnect.TabIndex = 2
         Me.btnConnect.Text = "Finalist ""Connect"""
         Me.btnConnect.UseVisualStyleBackColor = True
